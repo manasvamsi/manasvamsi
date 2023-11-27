@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasvamsi
-- 👀 I’m interested in ...Artifical intelligence , machine learning
-- 🌱 I’m currently learning ...machine learning
+- 👀 I’m interested in ...Artifical intelligence , machine learning , Software Development
+- 🌱 I’m currently learning ...machine learning , Backend , Cloud Technology
 - 💞️ I’m looking to collaborate on ...any startup or onsite based company
 - 📫 How to reach me ...manasvamsi2642@gmail.com
 
